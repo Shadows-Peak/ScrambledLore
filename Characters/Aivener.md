@@ -1,4 +1,7 @@
 #via 
+full name: Aivener kshev s'remtier
+she is a [[Tho-Dragun]]
+daughter of Kshev ([[Inkiab]]) of the [[Lineage of Arem (s'Remtier)]]
 Stewardess of [[Surturins]].
 
 "the one in charge"
