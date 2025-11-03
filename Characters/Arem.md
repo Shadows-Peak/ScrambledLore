@@ -1,1 +1,1 @@
-Arem was a dragon during the [[age of chaos]] who, in fear of being eradicated during the [[Unification of Magic]], quantum-hibernated until eons later they awoke as [[Tharem]].
+Arem was a dragon during the [[Age of Chaos]] who, in fear of being eradicated during the [[Unification of Magic]], quantum-hibernated until eons later they awoke as [[Tharem]].
