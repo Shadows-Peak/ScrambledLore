@@ -1,0 +1,1 @@
+[[Aternos]] created from their corpse a pocket dimension, [[Draguia]], that all other [[Chaos Dragons]] could live in uninterupted by the modern world. Aternos left behind [[The Egg]] and sealed themselves in [[Zataukeru, Grave of Aternos|Zataukeru]].

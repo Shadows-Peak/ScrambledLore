@@ -1,0 +1,398 @@
+{
+  "main": {
+    "id": "fd9cbef15d2a0a2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c940ea120ef12a26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afa4c6e8a646361f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Formation of Draguia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Formation of Draguia"
+            }
+          },
+          {
+            "id": "5eac048848c1fed3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aivener kshev s'remtier.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aivener kshev s'remtier"
+            }
+          },
+          {
+            "id": "262d6c322eb29c03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Formation of Draguia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Formation of Draguia"
+            }
+          },
+          {
+            "id": "93c2d4ef23745e24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Exchange of Magical Balance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exchange of Magical Balance"
+            }
+          },
+          {
+            "id": "ce4ffc00e0c8e1b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Prodigy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prodigy"
+            }
+          },
+          {
+            "id": "13fb702ef9733316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Navu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Navu"
+            }
+          },
+          {
+            "id": "5d92074d12b6d456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Probot Massacre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Probot Massacre"
+            }
+          },
+          {
+            "id": "8b88fbe4af196521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aivener kshev s'remtier.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aivener kshev s'remtier"
+            }
+          },
+          {
+            "id": "fa6036c123b4bdd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magics/Magic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magic"
+            }
+          },
+          {
+            "id": "14bf27a32a36b815",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Chaos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chaos"
+            }
+          },
+          {
+            "id": "3f3bc752d7ff73b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Unavi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unavi"
+            }
+          },
+          {
+            "id": "f19b68fc7a98baab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Dragon Tongue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dragon Tongue"
+            }
+          },
+          {
+            "id": "645883441a047682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/The First Dragons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The First Dragons"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "056b152d0541f260",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad77c62b445c9774",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62940e4c195ff46e",
+    "type": "split",
+    "children": [
+      {
+        "id": "eee1b81f2be665fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50992a9c4068d40f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aca24b6ea0edf9a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c765868702cb2675",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4fcad3958eb2bac3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d5815cd8fcbaef3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ebfbd9663eb378c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aivener kshev s'remtier.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Aivener kshev s'remtier"
+            }
+          },
+          {
+            "id": "3c13f23fcbda0864",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aivener kshev s'remtier.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Aivener kshev s'remtier"
+            }
+          },
+          {
+            "id": "5fe57905d73332c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7529483825d3b315",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aivener kshev s'remtier.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Aivener kshev s'remtier"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5eac048848c1fed3",
+  "lastOpenFiles": [
+    "Artifacts/The Egg.md",
+    "Artifacts",
+    "Aivener kshev s'remtier.md",
+    "Ages/Dragon Age.md",
+    "Events/Formation of Draguia.md",
+    "Locations/Zataukeru, Grave of Aternos.md",
+    "Concepts/Affinity.md",
+    "Events/Exchange of Magical Balance.md",
+    "Magical Composit.md",
+    "Races/Dragons.md",
+    "Magics/Chaos Magic.md",
+    "Concepts/Prodigy.md",
+    "Concepts/Dragon Tongue.md",
+    "Main Timeline.md",
+    "Surturins.md",
+    "Locations/Navu.md",
+    "Magics/Magic.md",
+    "Characters/Unavi.md",
+    "Ages/Age of Chaos.md",
+    "Factions/The First Dragons.md",
+    "Concepts/Chaos Dragons.md",
+    "Events/Probot Massacre.md",
+    "Characters/Prodigy Child (Probot).md",
+    "Locations/Arthas.md",
+    "Concepts/Chaos.md",
+    "Characters/Dragunthar, The First Dragon.md",
+    "Pasted image 20251102203008.png",
+    "Pasted image 20251102193735.png",
+    "Stories",
+    "Factions",
+    "Magics",
+    "Concepts",
+    "Races",
+    "Locations",
+    "Characters",
+    "Events",
+    "Ages",
+    "Untitled.canvas"
+  ]
+}

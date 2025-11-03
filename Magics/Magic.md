@@ -1,0 +1,1 @@
+The purest form of controlled magics, being the careful weaving of many threads of [[Chaos]] into a pure source of magic with easy usage. The weaves interlocked in different manners, allowing for different forms of magic to take root by varying the amounts of which thread clusters you used from the pure magic form.

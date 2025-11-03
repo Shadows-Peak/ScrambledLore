@@ -1,0 +1,1 @@
+[[Prodigy Child (Probot)|He Who Watches]]'s power begins to wane as [[Gareth of Ishoria|Gareth]] begins his activity in the [[Scramloria (The Sunless Realm)|ruins of Scramloria]]. 

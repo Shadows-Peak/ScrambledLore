@@ -1,0 +1,1 @@
+One of [[The First Dragons]], whose name also means "Demon" in the [[Dragon Tongue]]. She was the first dragon to utilize [[Chaos Magic]].

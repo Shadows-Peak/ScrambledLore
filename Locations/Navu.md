@@ -1,0 +1,1 @@
+Means "Dimension" in [[Dragon Tongue]]. This is the name given to the floating world that all life typically takes rest upon. Some exceptions to this are [[Dragons]], .

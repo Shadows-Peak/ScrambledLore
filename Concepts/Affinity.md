@@ -1,0 +1,3 @@
+The magical composition of a creature. Upon birth, when the [[Chaos]] energy used to make you collapses into the stable magic it is forced to be under the rules of the [[Unification of Magic]], then the type of variances in how it collapses as [[Magic]] lay way for what magics come easiest to you or that can be interacted with by you. For example, this determines what [[Dragons]] breathe.
+
+The more Chaos energy you have, then in general the more affinities you were born with (For example, [[Aternos]] wields them all and essentially all other [[Chaos Dragons]] do as well).

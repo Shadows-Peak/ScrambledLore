@@ -1,0 +1,1 @@
+The most magically sensitive race and also the most magically intensive, requiring much more [[Chaos]] energy to be formed that other lifeforms.

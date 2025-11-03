@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "-tag:hidden",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "file:Main Timeline",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Events  ",
+      "color": {
+        "a": 1,
+        "rgb": 15505959
+      }
+    },
+    {
+      "query": "path:Characters  ",
+      "color": {
+        "a": 1,
+        "rgb": 5427424
+      }
+    },
+    {
+      "query": "path:Locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Ages  ",
+      "color": {
+        "a": 1,
+        "rgb": 16271818
+      }
+    },
+    {
+      "query": "path:Concepts  ",
+      "color": {
+        "a": 1,
+        "rgb": 16708260
+      }
+    },
+    {
+      "query": "path:Factions  ",
+      "color": {
+        "a": 1,
+        "rgb": 1118569
+      }
+    },
+    {
+      "query": "path:Races  ",
+      "color": {
+        "a": 1,
+        "rgb": 5254752
+      }
+    },
+    {
+      "query": "path:Magics  ",
+      "color": {
+        "a": 1,
+        "rgb": 1531133
+      }
+    },
+    {
+      "query": "path:Stories  ",
+      "color": {
+        "a": 1,
+        "rgb": 8610659
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.2,
+  "nodeSizeMultiplier": 1.68229166666667,
+  "lineSizeMultiplier": 2.83072916666667,
+  "collapse-forces": false,
+  "centerStrength": 0.479166666666667,
+  "repelStrength": 13.8541666666667,
+  "linkStrength": 0.125,
+  "linkDistance": 280,
+  "scale": 0.36288736930120963,
+  "close": true
+}

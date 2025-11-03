@@ -1,0 +1,3 @@
+[[Dragons]] take a much greater amount more of [[Chaos]] energy to be born, and thus in comparison to other lifeforms they can only exist in much smaller numbers. This is because dragons don't procreate nearly as much as most modern creatures, and so especially as [[Humans]] began to be born more and more, the dragon populations took a significant decline. Furthermore, not only was there less [[Magic]] so less dragons were born, but the dragons that were born were beginning to have progressively weaker and weaker magic as a result. This allowed for other lifeforms to finally begin to be more powerful than dragons, even if only by numbers.
+
+Some dragons began to be born with no affinities, as opposed to having been born almost always with several as in the past.

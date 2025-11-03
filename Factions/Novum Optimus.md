@@ -1,0 +1,1 @@
+Latin for "new/fresh" and "the best/aristocratic". This is a sprawling empire of magical ingenius led by all members of the [[Bearer of the Egg|Bearers of the Egg]] save [[Xavier]].

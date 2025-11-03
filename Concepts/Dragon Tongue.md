@@ -1,0 +1,1 @@
+The language used by [[Dragons]]. It carries a certain weight to its words as it was forged in the very essence of [[Chaos]] itself at the dawn of time during the [[Age of Chaos]].

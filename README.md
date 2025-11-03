@@ -1,2 +1,0 @@
-# ScrambledLore
-Scrambled Lore (Obsidian)
