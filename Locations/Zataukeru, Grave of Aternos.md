@@ -1,0 +1,1 @@
+Zatau meaning "Immortal" and Keru meaning "Shrine" in [[Dragon Tongue]].

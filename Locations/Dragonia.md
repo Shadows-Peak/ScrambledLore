@@ -1,0 +1,1 @@
+A region that was later tainted by the spell housed in the [[Tower of the Eternal Eclipse]] and turned into [[Scramloria (The Sunless Realm)]]. Prior to this, [[Dragus#Dragus (In the times of Dragonia)|Dragus]] was the capital of Dragonia.

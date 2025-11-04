@@ -13,86 +13,128 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Formation of Draguia.md",
+                "file": "Locations/Arthas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formation of Draguia"
+              "title": "Arthas"
             }
           },
           {
-            "id": "5eac048848c1fed3",
+            "id": "cadccf625b460c37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aivener kshev s'remtier.md",
+                "file": "Races/Artificiods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aivener kshev s'remtier"
+              "title": "Artificiods"
             }
           },
           {
-            "id": "262d6c322eb29c03",
+            "id": "b6df5bd63ee5b595",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Formation of Draguia.md",
+                "file": "Characters/Grandun, the Great Dragon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formation of Draguia"
+              "title": "Grandun, the Great Dragon"
             }
           },
           {
-            "id": "93c2d4ef23745e24",
+            "id": "5ece06d9046ebf56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Exchange of Magical Balance.md",
+                "file": "Concepts/Nightfall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exchange of Magical Balance"
+              "title": "Nightfall"
             }
           },
           {
-            "id": "ce4ffc00e0c8e1b9",
+            "id": "506db689ab52d21d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Prodigy.md",
+                "file": "Characters/Siethun.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prodigy"
+              "title": "Siethun"
             }
           },
           {
-            "id": "13fb702ef9733316",
+            "id": "d9885037a5a63bf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Navu.md",
+                "file": "Locations/Mount Daragon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Navu"
+              "title": "Mount Daragon"
             }
           },
           {
-            "id": "5d92074d12b6d456",
+            "id": "458e5e7e7a77df24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Oath.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oath"
+            }
+          },
+          {
+            "id": "fbdacf40daf1fe9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Sintel, Keeper of Halüges.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sintel, Keeper of Halüges"
+            }
+          },
+          {
+            "id": "be5b0cf1e71e953a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Shadow's Peak.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shadow's Peak"
+            }
+          },
+          {
+            "id": "eb8c48714ff4babb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,107 +148,161 @@
             }
           },
           {
-            "id": "8b88fbe4af196521",
+            "id": "db65c762c8f2e273",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aivener kshev s'remtier.md",
+                "file": "Ages/Age of Fatigue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aivener kshev s'remtier"
+              "title": "Age of Fatigue"
             }
           },
           {
-            "id": "fa6036c123b4bdd3",
+            "id": "1a2ce376b4ad2f60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magics/Magic.md",
+                "file": "Ages/Era of Prosperity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic"
+              "title": "Era of Prosperity"
             }
           },
           {
-            "id": "14bf27a32a36b815",
+            "id": "36c076ddcffbec8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Chaos.md",
+                "file": "Characters/Ovus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chaos"
+              "title": "Ovus"
             }
           },
           {
-            "id": "3f3bc752d7ff73b7",
+            "id": "5139d40506cc5aff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Unavi.md",
+                "file": "Locations/Dragonia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unavi"
+              "title": "Dragonia"
             }
           },
           {
-            "id": "f19b68fc7a98baab",
+            "id": "b64ad1ff83f872cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Dragon Tongue.md",
+                "file": "Locations/Dragonia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dragon Tongue"
+              "title": "Dragonia"
             }
           },
           {
-            "id": "645883441a047682",
+            "id": "305099bdf465a143",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/The First Dragons.md",
+                "file": "Locations/Dragus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The First Dragons"
+              "title": "Dragus"
+            }
+          },
+          {
+            "id": "0e7794e5aacdfb09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Second Coming of the Dragon Age.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Second Coming of the Dragon Age"
+            }
+          },
+          {
+            "id": "feabe0cd624d18dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Tower of the Eternal Eclipse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tower of the Eternal Eclipse"
+            }
+          },
+          {
+            "id": "4b38f86a0aea9042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magics/Draconic Magic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Draconic Magic"
+            }
+          },
+          {
+            "id": "5f0ec8b96318b925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Order of the Eclipse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Order of the Eclipse"
+            }
+          },
+          {
+            "id": "35377d09257ec8d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Races/Artificiods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Artificiods"
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "056b152d0541f260",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ad77c62b445c9774",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -279,7 +375,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aivener kshev s'remtier.md",
+                "file": "Races/Artificiods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +385,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aivener kshev s'remtier"
+              "title": "Backlinks for Artificiods"
             }
           },
           {
@@ -298,12 +394,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aivener kshev s'remtier.md",
+                "file": "Races/Artificiods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Aivener kshev s'remtier"
+              "title": "Outgoing links from Artificiods"
             }
           },
           {
@@ -327,20 +423,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aivener kshev s'remtier.md",
+                "file": "Races/Artificiods.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Aivener kshev s'remtier"
+              "title": "Outline of Artificiods"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -354,34 +451,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "5eac048848c1fed3",
+  "active": "35377d09257ec8d1",
   "lastOpenFiles": [
-    "Artifacts/The Egg.md",
-    "Artifacts",
-    "Aivener kshev s'remtier.md",
-    "Ages/Dragon Age.md",
-    "Events/Formation of Draguia.md",
-    "Locations/Zataukeru, Grave of Aternos.md",
-    "Concepts/Affinity.md",
-    "Events/Exchange of Magical Balance.md",
-    "Magical Composit.md",
-    "Races/Dragons.md",
-    "Magics/Chaos Magic.md",
-    "Concepts/Prodigy.md",
-    "Concepts/Dragon Tongue.md",
-    "Main Timeline.md",
-    "Surturins.md",
-    "Locations/Navu.md",
-    "Magics/Magic.md",
-    "Characters/Unavi.md",
-    "Ages/Age of Chaos.md",
-    "Factions/The First Dragons.md",
-    "Concepts/Chaos Dragons.md",
-    "Events/Probot Massacre.md",
-    "Characters/Prodigy Child (Probot).md",
+    "Characters/Grandun, the Great Dragon.md",
     "Locations/Arthas.md",
-    "Concepts/Chaos.md",
-    "Characters/Dragunthar, The First Dragon.md",
+    "Races/Artificiods.md",
+    "Ages/Era of Prosperity.md",
+    "Concepts/Second Coming of the Dragon Age.md",
+    "Concepts/Nightfall.md",
+    "Main Timeline.md",
+    "Untitled",
+    "Locations/Zataukeru, Grave of Aternos.md",
+    "Characters/Siethun.md",
+    "Locations/Mount Daragon.md",
+    "Locations/Navu.md",
+    "Concepts/Oath.md",
+    "Characters/Sintel, Keeper of Halüges.md",
+    "Locations/Shadow's Peak.md",
+    "Events/Formation of Draguia.md",
+    "Locations/Dragus.md",
+    "Factions/Order of the Eclipse.md",
+    "Magics/Draconic Magic.md",
+    "Locations/Tower of the Eternal Eclipse.md",
+    "Concepts/Dragon Tongue.md",
+    "Locations/Dragonia.md",
+    "Untitled 1.md",
+    "Events/Probot Massacre.md",
+    "Events/Prodigy's Disembodiment.md",
+    "Events/Exchange of Magical Balance.md",
+    "Characters/Ovus.md",
+    "Artifacts",
     "Pasted image 20251102203008.png",
     "Pasted image 20251102193735.png",
     "Stories",
@@ -392,7 +491,6 @@
     "Locations",
     "Characters",
     "Events",
-    "Ages",
     "Untitled.canvas"
   ]
 }

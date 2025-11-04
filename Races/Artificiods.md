@@ -1,0 +1,1 @@
+Artificial men constructed by the [[Humans]] of [[Arthas]]. They are powered under the placement of an [[Oath]] connecting to the [[Grandun, the Great Dragon|Great Dragon, Grandun]].

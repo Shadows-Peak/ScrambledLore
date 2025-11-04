@@ -1,0 +1,1 @@
+Halüges meaning "history" in [[Dragon Tongue]].

@@ -1,1 +1,1 @@
-Mechanical city
+Mechanical city inhabited originally by [[Dragons|Dragon]]-worshipping [[Humans]] who were graced by the presence of [[Grandun, the Great Dragon]]. Grandun allowed the Humans to partake in an [[Oath]] with him leading to the creation of [[Artificiods]].

@@ -1,0 +1,1 @@
+Aptly named Mountain "Dragon" as Daragon is "dragon" in [[Dragon Tongue]]. This was the resting place of [[Siethun]] for many eons as [[Navu]] had first formed and onwards and is located in [[Dragonia]]/[[Scramloria (The Sunless Realm)|Scramloria]].

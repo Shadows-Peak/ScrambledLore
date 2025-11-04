@@ -1,0 +1,1 @@
+A form of [[Magic]] that leverages the same power that embodies the [[Dragon Tongue]] typically through usage of words from the aforementioned language.
