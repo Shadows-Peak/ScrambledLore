@@ -1,0 +1,1 @@
+Super AI with a non-corporeal intelligence invented by the [[Arthas|Arthans]] in the [[Era of Prosperity]]. It stands for "**Never Allow Human Filth to Live**."

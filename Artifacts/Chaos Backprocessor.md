@@ -1,0 +1,1 @@
+A device invented by the [[Artificiods]] of [[Arthas]] during the [[Dragon Age]]. It allows for conversion of [[Magic]] back into pure [[Chaos]] energy, allowing for temporary violations of the spell induced by the [[Unification of Magic]] beyond the creation of new lifeforms and of the usage of [[Chaos Magic]].
