@@ -1,1 +1,1 @@
-Goddess of Adventure within Scramloria.
+Goddess of Adventure within [[Scramloria (The Sunless Realm)|Scramloria]].
