@@ -1,0 +1,1 @@
+Latin for "God's dreams." It is a realm that can only be accessed through the permission of the [[Prodigy Child (Probot)|Prodigy Child]] and is a section of his subconscious that he can lend out to hold physical forms.

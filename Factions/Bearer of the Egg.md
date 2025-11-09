@@ -1,0 +1,1 @@
+Mostly composed of [[Dragon Zealots]], the Bearers of the Egg were those who held a fragment of [[The Egg]] and thus had heightened power.

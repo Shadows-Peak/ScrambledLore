@@ -1,0 +1,1 @@
+Those that follow [[Prodigy Child (Probot)|He Who Watches]] and, in the [[Age of Fatigue]], are encouraged by him to provide himself with strength or to kill his oppressors.
