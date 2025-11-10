@@ -1,0 +1,1 @@
+The pocket dimension realm contained within [[Aternos]]' bones following the [[Formation of Draguia]] at the end of the [[Dragon Age]]. A majority of all [[Chaos Dragons]] live within Draguia.

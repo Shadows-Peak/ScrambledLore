@@ -1,1 +1,1 @@
-Zatau meaning "Immortal" and Keru meaning "Shrine" in [[Dragon Tongue]].
+Zatau meaning "Immortal" and Keru meaning "Shrine" in [[Dragon Tongue]]. It can only be accessed through usage of [[Chaos Magic]] and houses [[Aternos]]. Within Aternos' bones is the pocket dimension realm of [[Draguia]] that most [[Chaos Dragons]] inhabit.

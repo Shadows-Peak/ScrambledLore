@@ -1,0 +1,1 @@
+The [[Dragons|Dragon]] accountable for the [[Unification of Magic]] after slaughtering of 20% of dragon-kind. He also performed the [[Formation of Draguia]] spell as an apology to those he killed during the [[Age of Chaos]] and to separate the advancing lives of [[Humans]] from the fully evolved life of [[Chaos Dragons]].

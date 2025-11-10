@@ -1,0 +1,1 @@
+[[Dragons]] that were born before the [[Unification of Magic]] and are capable of using [[Chaos Magic]]. Most Chaos Dragons live in [[Draguia]] following the [[Formation of Draguia]] by [[Aternos]], the most powerful of Chaos Dragons.
