@@ -1,4 +1,4 @@
-Mechanical city inhabited originally by [[Dragons|Dragon]]-worshipping [[Humans]] who were graced by the presence of [[Grandun, the Great Dragon]]. Grandun allowed the Humans to partake in an [[Oath]] with him leading to the creation of [[Artificiods]].
+Mechanical city inhabited originally by [[Dragons|Dragon]]-worshipping [[Humans]] who were graced by the presence of [[Grandun, The Great Dragon]]. Grandun allowed the Humans to partake in an [[Oath]] with him leading to the creation of [[Artificiods]].
 
 ### Events Throughout History
 ==**~2400 DA**== :  Arthas is formed by a group of scholars who had been banished from their homeland, [[Magus Optimus]], with the goal of using machinery and [[Magic]] together in perfect unison.
