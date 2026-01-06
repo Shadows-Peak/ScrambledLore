@@ -49,7 +49,7 @@ Mechanical city inhabited originally by [[Dragons|Dragon]]-worshipping [[Humans]
 
 ==**9 DB**== :  Artho is disguised as a sort of Human, despite still being an Artificiod, and is given several upgrades to their dated design.
 
-==**23 DB**== :  A search part of several Human-disguised Artificiods discover that the [[Formation of Draguia]] had occurred and that [[The Egg]] exists.
+==**23 DB**== :  A search party of several Human-disguised Artificiods discover that the [[Formation of Draguia]] had occurred and that [[The Egg]] exists.
 
 ==**24 DB**== :  Secret development on a way to harvest The Egg's power begins.
 
@@ -73,7 +73,7 @@ Mechanical city inhabited originally by [[Dragons|Dragon]]-worshipping [[Humans]
 
 ==**178 DB**== :  The super AI, [[NAHFL]], is completed.
 
-==**203 DB**== :  [[Prodigy Child (Probot)|He Who Watches]] possesses the final automaton **Probot** and the Artificiods realize this and ask the goal of the pseudo-God. When the He Who Watches says he intends to kill all living creatures that stand before him, the Artificiods say he is welcome to do so, as they have far surpassed such lowly creatures nearly a millennia ago and could care less what happens to them. The [[Probot Massacre]] commences.
+==**203 DB**== :  [[Prodigy Child (Probot)|He Who Watches]] possesses the final automaton **Probot** and the Artificiods realize this and ask the goal of the pseudo-God. When He Who Watches says he intends to kill all living creatures that stand before him, the Artificiods say he is welcome to do so, as they have far surpassed such lowly creatures nearly a millennia ago and could care less what happens to them. The [[Probot Massacre]] commences.
 
 # MAYBE ADD MORE FOR SUPER AI, RYKER
 
