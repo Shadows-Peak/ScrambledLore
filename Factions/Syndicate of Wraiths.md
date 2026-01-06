@@ -1,0 +1,1 @@
+A grouping of wraiths dedicated to a strategic gaining of control over human villages, cities, and nations in order to assert power and dominion within the world to establish themselves as something other than a creature lesser than what humans are capable of.

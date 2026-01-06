@@ -1,0 +1,6 @@
+Firelash is a [[Homunculus]] created by [[Yunem]] with the purpose of being able to always identify Yunem regardless of the inhabited body and formed [[Soul|soul]]. He utilizes a device attached to his head that acts a conduit for [[Magic#Vessel-Bound Magic|Vessel-Bound Magic]] to channel the artificial [[Affinity]] for fire that makes up his body.
+
+For his creation, his body wasn't physically augmented to anything beyond the capabilities of a normal [[Humans|human]]. That being said, the belly that Firelash has is extremely armored and can even be made into an incredibly bouncy surface at the will of Firelash, allowing more versatility and defense there than that of a normal human.
+
+### His Attitude
+There were some kinks in his initial memories that [[Yunem]] didn't have time to work out due to an attack launched by the [[Syndicate of Wraiths]] upon the village he was staying in. As such, Firelash is a generally more hot-headed and self-absorbed creature that tends to believe his fire [[Magic]] is truly his own and isn't reliant on the technology adorned to his body. The only reason he doesn't attempt to test his theory is that he thinks its sick to have fire for hair and come out of his head so he just keeps his status quo that he seems to love too much to abandon.
