@@ -4,6 +4,9 @@ Magus Optimus, however, ran a long course of history, only ending when they bega
 
 The remnants of Magus Optimus became a variety of different smaller nations throughout time, but after the [[Formation of Draguia]], Magus Optimus was reinstated under the name [[Novum Optimus]] after they acquired [[The Egg]]. They remained a rather small nation until [[Ovus]] split The Egg and formed the [[Bearer of the Egg|Bearers of the Egg]].
 
+##### Magalo
+Nation that it split into at some point
+
 
 
 ### Events Throughout History
