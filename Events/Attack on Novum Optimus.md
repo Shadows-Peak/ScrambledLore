@@ -1,0 +1,1 @@
+It was a failed attack to topple [[Novum Optimus]], however it was successful in taking the shard of [[The Egg]] that [[Xavier]] had previously held
