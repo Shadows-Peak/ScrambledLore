@@ -1,5 +1,9 @@
 **“Devourers of Chaos”**
 
+Singular: nexhe
+Plural: Nexhal
+Can relay information to other Nexhal they’ve met.
+
 Nexhal are serpent-like translucent space dwellers. They are born through the death of a [[Dragons|Dragon]] that then does not get reborn (as Dragons are not under the jurisdiction of [[Surturins]], and have also existed long before its creation) and so the mind decays and the [[Concepts/Soul|Soul]] erodes its seamless hold on the [[Magics/Magic|Magic]] of the deceased Dragon, thus creating the ethereal form of a Nexhal.
 
 Nexhal have long worm-like bodies that can be seen through and have legs that are formed of two parts and make right angles at their joint (much like how a mantis holds its arms up) that run along the bottom of the creature like a centipede. These legs allow them to walk along [[Chaos]] and or the strands of Magic. This means that, though they typically inhabit the zero-gravity realm of space, they still have full movement and within even expending Magic.
