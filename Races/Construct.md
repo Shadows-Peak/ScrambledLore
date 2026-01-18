@@ -1,0 +1,4 @@
+An entity that is entirely composed of a [[Magic]] or pure [[Chaos]], holds no inherent physical form, and typically possesses no soul. Constructs can only be created through a magical means, and typically are not the result of any normal forms of reproduction. It is worth noting that a construct could be designed to reproduce in such a manner that engages a spell for forming other constructs or even a physical being.
+
+## Chaos Constructs
+A Chaos Construct is a construct that is formed not of a specific magic, but of pure chaos energy. These are the least common form of constructs, as they are not only the most powerful, but require the usage of [[Chaos Magic]] to create.

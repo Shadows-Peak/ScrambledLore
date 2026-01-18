@@ -1,3 +1,3 @@
-Earliest Goddess within [[Navu]], additionally known as the "Sower of Madness." Before the end of the [[Dragon Age]], she fed off the results of failed use of [[Chaos]], and stowed infighting amongst creatures which could wield it in order to create more sources to feed from.
+Earliest [[Gods|Goddess]] within [[Navu]], additionally known as the "Sower of Madness." Before the end of the [[Dragon Age]], she fed off the results of failed use of [[Chaos]], and stowed infighting amongst creatures which could wield it in order to create more sources to feed from.
 
 With the end of the [[Dragon Age]], Helga split into 5 separate Goddess', known as the Daughters of The Elder. This was due to the fact that she simply couldn't incite as much misuse of [[Chaos]] that was needed to keep her sustained as one whole. 

@@ -2,7 +2,7 @@
 ### Past/Future Time Interactions of Chaos:
 - You can easily cast back magic along flow of chaos and time to feel out the events that previously happened, but it is surface level and can’t be touched
 - You can cast magic forward but it is hard to reel back, and is better for making one change without even really seeing what’s happening in the future 
-- If you get data on the past and present, once could reasonably use the flow of chaos and time to predict the future, but not perfectly see it
+- If you get data on the past and present, once could reasonably use the flow of chaos and time to predict the future, but not perfectly see it, this is due to the disruptions that may occur in the future that you cannot perfectly account for
 
 ### Religion/Mythology Belief Notes For World-building:
 - Need mythology that isn’t true so as to not violate the rulings of a developing/developed social world

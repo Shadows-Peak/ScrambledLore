@@ -1,0 +1,10 @@
+A [[Chaos Dragons|Chaos Dragon]] who falls more under the category of a [[Construct#Chaos Constructs|Chaos Construct]] than that of a [[Dragons|Dragon]]. He is the first child of [[Kupaulus, the Hidden Dragon|Kupaulus]] and was influenced by them to be interested in all things that aren’t dragons.
+
+## Personality
+Legyre loves chaos and messing with as many things as possible regardless of the repercussions. In this pursuit, he will go through whatever means of gaining more power or knowledge as possible. Legyre does not however intend to kill his own kind to absorb [[Chaos]] for the sake of further strength. He instead plans on seeing if he can introduce things that shake up the world enough that the energy of Chaos just simply presents itself ripe for the taking. Legyre is also obsessed with how things play out, as he sees it as a sort of constant game that fills the hunger within him. Legyre will not take any mercies upon anything affiliated with a dragon that is not Kupaulus or someone they have cleared. This may mean they commit an instant destruction of them, an extensive torture upon them, simply refuse to help them, or force them into an experiment or elaborate story for his own pleasure and amusement.
+
+## Creation of Gods
+One of Legyre’s first major interactions was the creation of [[Gods]] to disrupt the natural livelihoods of other dragons and enrage them with the prospect of another conscious creature being able to use [[Chaos Magic]].
+
+## Creation of the Prodigy
+There came a point where Legyre was curious with the concept of Chaos being harnessable by something as small as a humanoid creature, so he forced a woman into pregnancy with the child who would become [[Havus, The First Prodigy|Havus]]. In the coming years, Havus would disappear and Legyre would be disappointed with the performance of such a creature, before finding it necessary to reinstate the concept when Chaos was having disruptions in its flow and getting pulled thin in certain areas. This led to the instatement of the [[Prodigy#The Cycle of the Prodigy|Cycle of the Prodigy]].
