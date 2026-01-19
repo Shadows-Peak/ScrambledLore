@@ -1,0 +1,1 @@
+An artifact that can store a position in time, then later warp space to return the local area to that state, as long as not too much has changed or too much time has passed.
