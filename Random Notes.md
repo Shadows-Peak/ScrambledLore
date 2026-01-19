@@ -18,3 +18,6 @@ Age of fatigue -> Era of the Prodigy
 
 
 Nations at the end of the world would likely fight constantly as those nations get first dibs on the land that is created there and so the nations would want to compete over the rights for this land to grow with.
+
+
+Maybe Legyre starts liking boat warfare and stuff as a result of the Ring wars and so he sets it up to disrupt the flow of chaos around the anomaly ever so often so that water is generated farther out.

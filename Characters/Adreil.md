@@ -1,9 +1,3 @@
 [[Gods|Goddess]] of Adventure within [[Scramloria (The Sunless Realm)|Scramloria]]. Highly responsible for the number of adventurer's and explorer's within [[Scramloria (The Sunless Realm)|Scramloria]], as she has provided visions of great battles and treasure to be found in the area to outsiders. Additionally responsible for the many danger's present with the area, as she pushed many particularly savage creatures to the land, as well as many of the last remaining [[Dragons]].
 
 4th Daughter of [[Helga, The Elder Goddess|The Elder]].
-
- |    |
-v   v
-# **died in the year 2**
-- the prophetical tablets from the year 3
-!DO NOT REMOVE!
