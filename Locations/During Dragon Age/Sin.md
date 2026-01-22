@@ -1,0 +1,1 @@
+The innermost nation of [[Navu#Medrum|Medrum]], Sin calls itself that as in [[Dragon Tongue]] it means “First,” and they are believers that they were the first to call Medrum home as an [[Enzadagon]].

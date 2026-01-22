@@ -1,0 +1,1 @@
+Essentially just normal modern English. It’s very closely related to [[Enzuvci]], but this is a version that was spread by [[Proto-Humans|Proto-Human]]  scholars that believed if we could emulate that language then they’d grow stronger due to its connection to [[Dragon Tongue]] which itself holds strength in just words.

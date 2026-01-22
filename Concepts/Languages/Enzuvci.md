@@ -1,0 +1,5 @@
+Fusions of “Enzada” for “Worshipper” and “Uvci” for “Translation” in [[Dragon Tongue]].
+
+Enzuvci is the language spoken by the [[Enzadagon]]. When first discovered, Enzadagon were incapable of speech, so the [[Dragons]] gifted them the ability, as well as an assortment of language that was essentially a one to one translation of each word into their own language. This language sounds essentially just like a modern English. It’s worth noting that there were obviously cultural differences so Enzuvci developed into a slightly different phrasing and took on additions to try to mimicking Dragon Tongue more at times.
+
+Enzuvci was lost for a long time after it evolved, but eventually [[Proto-Humans|Proto-Human]] scholars rediscover it and the language slowly begins to spread again until it makes the small differences needed to become [[Common]].
