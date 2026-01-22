@@ -1,1 +1,1 @@
-Tharem was a [[Tho-Dragun]]. They were created from the transformative process of quantum-hibernation by [[Arem]]. Tharem lived ~500 years until being fatally injured in a war. This resulted in Tharem's mutation into [[Inkiab]].
+Tharem was a [[Tho-Dragun]]. They were created from the transformative process of quantum-hibernation by [[Arem]]. Tharem lived ~500 years until being fatally injured in [[The Ring Wars|a war]]. This resulted in Tharem's mutation into [[Inkiab]].
