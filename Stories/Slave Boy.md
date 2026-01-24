@@ -1,6 +1,10 @@
 ## Characters Present
 By Order of Appearance: [[Xavier]], [[Ovus]], [[Sango]], [[Ovo]]
 
+# !
+# This smut is being formally rewritten
+# !
+
 ## Story
 **Xavier:** ==Ovus?==
 *She nods*
