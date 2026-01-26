@@ -1,1 +1,0 @@
-Means "broken dragon" in [[Dragon Tongue]]. A human with chaos-dragon D.N.A. A Tho-Dragun does not age, nor can one be killed, technically. When a Tho-Dragun is fatally injured, it mutates into a new form with a new soul.

@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 8610659
       }
+    },
+    {
+      "query": "path:Concepts/Languages  ",
+      "color": {
+        "a": 1,
+        "rgb": 16577197
+      }
     }
   ],
   "collapse-display": false,
@@ -88,6 +95,6 @@
   "repelStrength": 20,
   "linkStrength": 0.426315789473684,
   "linkDistance": 404,
-  "scale": 0.48605897078038546,
-  "close": false
+  "scale": 0.2031200652689808,
+  "close": true
 }

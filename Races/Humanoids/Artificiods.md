@@ -1,3 +1,3 @@
-Artificial men constructed by the [[Humans]] of [[Arthas]]. They are powered under the placement of an [[Oath]] connecting to the [[Grandun, The Great Dragon|Great Dragon, Grandun]].
+Artificial men constructed by the [[Humans]] of [[Arthas]]. They are powered under the placement of an [[Oath]] connecting to the [[Grandun, the Great Dragon|Great Dragon, Grandun]].
 
 They are an incredibly xenophobic race of creatures, and they firmly believe in their intellectual superiority to all other living creatures. As such, they often won't hesitate to demonstrate their superiority in other manners that they see fit, such as felling a [[Chaos Dragons|Chaos Dragon]].

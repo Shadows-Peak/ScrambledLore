@@ -14,7 +14,6 @@
 
 
 
-Age of fatigue -> Era of the Prodigy
 
 
 Nations at the end of the world would likely fight constantly as those nations get first dibs on the land that is created there and so the nations would want to compete over the rights for this land to grow with.
