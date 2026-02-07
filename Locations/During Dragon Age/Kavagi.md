@@ -1,0 +1,1 @@
+Nation that was a colony let to be independent by Sanaul after being told by Vokzan that the land there would soon be of great value. 

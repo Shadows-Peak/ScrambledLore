@@ -1,0 +1,1 @@
+Gurrio for slumber and “-gun” for dragon. Salgus inhabits the area and often goes in and out of their pocket dimension leading to the belief they are slumbering somewhere hidden in the land only to come out on rare occasion.

@@ -1,0 +1,11 @@
+They have a thin layer of skin (so thin it’s translucent) with a somewhat moist and scaly texture and inside is a mixture of gas and tentacle/tendrils within that serve as their organs and limbs. They also have a tiny mouth with small hooks on the flaps that can be used to defend itself or suck out gases/liquids from things. They can shoot their tendrils out to grab on to things or to move around with. In the tips of these tendrils are many tiny tendrils to help with grip.
+
+Gas sprites must consume various gasses (most) to grow and survive, and can also consume moistures (some) to sustain their limbs properly. As a result, gas sprites typically live in gaseous areas, but they may also be found in moist environments. They have no limit to how big they can grow from the consumption of gas, but as the amount of moisture you need goes up and up the larger you are, most gas sprites die of their own greed before becoming extremely large.
+
+As gas sprites do not possess eyes, they rely on opening their mouths and using their inner tendrils and the gas within them to sense disturbances in air flow and attack, flee, or stay accordingly. They are usually also incredibly territorial over their spots of gas and won’t shy from killing anything that enters it, including their own.
+
+Gas sprites can attack living creatures (such as [[Humans]]) by latching on to the face of their victim with their tendrils and sucking the air out with the tiny mouth they have.
+
+Killing a gas sprite is as easy as either poking a hole in it large enough that their internal regulation of gas and tendrils cannot maintain such a gaping hole and so their inner gas floods out and they suffocate/run out of energy, hurting the tendrils within them greatly, or somehow setting fire to their internal gas.
+
+If you ever can’t discern whether you are in an area inhabited by gas sprites, listen for the chittering sounds they make (caused by the occasional opening and closing of their mouth flaps and the weird terrain of their tendrils and inner gasses interacting to produce the sound).

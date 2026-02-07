@@ -1,0 +1,1 @@
+Devgal is sun and Baya is god so “-ya” kind of means ascended thing

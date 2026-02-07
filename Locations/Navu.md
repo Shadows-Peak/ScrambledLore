@@ -22,3 +22,18 @@ A ring of water cutting Medrum off from the rest of Navu. It was formed as a res
 The Zalde strip, which means “Terminal” strip in dragon tongue, is the circle of land that formed after The Ring finished forming, and ends as the land begins to subdivide from [[Ul Vikel Ebragi|further interaction]]. It is often just referred to as Zalde.
 
 It is referred to as the terminal due to it being the connecting point between many continents in the central world and the originating point of humanoid life forms.
+
+### Kupauhi
+A large region forming to the left of a line emanating from the anomaly in a smearing pattern that has great fluctuation as it marks the region where the spinning chaos within the anomaly thins as it is in between a phasing. This results in a large desert forming anytime there is little chaos energy present in the area nearby the formation or if the formation is too far away (Starting Zalde and farther).
+
+Kupaudi is Caution, Hilu is goodbye. It is saying goodbye to all that enter, and that you must heed caution.
+
+
+
+
+
+
+## Past Navus
+## Circa Ring Wars
+When the [[The Ring Wars]] began, Navu looked as such:
+![[RingWarsNavu.jpeg]]

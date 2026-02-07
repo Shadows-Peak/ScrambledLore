@@ -1,0 +1,1 @@
+Ulkige of race and -ya of Baya for god or greater than/enhanced
