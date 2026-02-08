@@ -1,0 +1,6 @@
+A [[Chaos Dragons|Chaos Dragon]] and one of [[Kupaulus, the Hidden Dragon|Kupaulus]]’ kin. They formed themselves in the image of the imperfections of mankind and thus possess only one wing. Their body is out of proportion in a variety of places, and tends to be heavier on their right side. They cannot fly without the use of [[Chaos Magic]], and thus instead gallop with the help of their one wind. Neru typically phases through the ground and swims through it to be dormant, but occasionally comes out for “hunts.”
+
+### Hunts
+Although Neru was taught to adore [[Navu]] and the many imperfections of the creatures inhabiting it, Neru themself believes that the imperfection of creatures is an incredibly entertaining thing to toy with and study. In this act, Neru comes up from the ground in order to attract what they consider “weak-willed spirits” (people that would decide to hunt them or chase them). Neru appears weak so that people let their guards down and show their true colors so that after they believe they’ve won, they kill all but one and curse them.
+
+To locate good spots for these hunts, Neru can hear the thoughts and words of people across a colossal radius ever as they are swimming through the ground. Once they’ve chosen victims, they swim through the ground near them, watching, until it is time to begin the hunt.
