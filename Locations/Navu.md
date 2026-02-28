@@ -28,6 +28,12 @@ A large region forming to the left of a line emanating from the anomaly in a sme
 
 Kupaudi is Caution, Hilu is goodbye. It is saying goodbye to all that enter, and that you must heed caution.
 
+### Evratha
+The top left subcontinent branching off Zalde after the Ebragi were put in place.
+
+### Uvrotha
+The top right subcontinent branching off Zalde after the Ebragi were put in place.
+
 
 
 
