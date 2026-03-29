@@ -1,0 +1,1 @@
+A caravan of adventurers that left formed a bit before the start of the story and will be encountering the players at certain points, carrying a similar line of progression.

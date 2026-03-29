@@ -1,0 +1,3 @@
+A strange object that carries a heavy presence of [[Chaos]] despite not typically possessing much aside from its protective barrier placed upon it by [[Kupaulus, the Hidden Dragon|Kupaulus]]. This is because it holds the unique capability of allowing [[The Defiled Strand]] to pass instruction and energy through and into it.
+
+The stone, as a result of being connected to the Defiled Strand, is capable of speaking to those near it every so often (when a relay is able to reach it with the proper encoding). It would also, by extension, be capable of granting power, revoking power, or using the Defiled Strand’s strength to enact some other change. As a result, it has become an object of worship for many. 
