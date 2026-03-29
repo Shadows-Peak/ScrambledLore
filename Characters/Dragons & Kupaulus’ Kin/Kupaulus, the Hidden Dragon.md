@@ -1,6 +1,6 @@
 Fusion of “Kupaudi” in [[Dragon Tongue]] (meaning Caution) and “Solus” in Latin (meaning Alone).
 
-Kupaulus was one of [[The First Dragons]] who was deemed as a scaredy-cat and often bullied by [[Dragons]] both born alongside them and after them. Out of such a deep desire of not being associated with the others, they chose to not conform their body to the acts of reproduction, thus making it so no descendants were ever formed via contraception from Kupaulus and instead were to be willingly made by their decision on few occasions. Kupaulus is also genderless as a result.
+Kupaulus was one of [[The First Dragons]] who was deemed as a scaredy-cat and often bullied by [[Dragons]] both born alongside them and after them. Out of such a deep desire of not being associated with the others, they chose to not conform their body to the acts of reproduction, thus making it so no descendants were ever formed via contraception from Kupaulus and instead were to be willingly made by their decision on few occasions. Kupaulus is also genderless as a result. It is worth noting, that Kupaulus’ true identity is that of a Dragon-[[Interface]] hybrid.
 
 ### Form
 Kupaulus assumes a form considerable as 'ineffable' to any mortal creature. They span a great size, perhaps the size of a moon or ever larger. They have tufts that grow off of some baseless center and upon these rest numerous eyes. The color of Kupaulus is some strange hue of purple that does not seem to exist in the proper sense, and their texture is of a shiny, glossy, smooth, matte, and rugged body. Merely witnessing their form will activate an ability that will forever burn their image into your mind and often drives the mortal being into insanity if they do not properly take control and care over themselves. It is said that their body unravels like a flower from a stem that is the very [[Chaos]] of the universe, but others say that Kupaulus takes the form of a million different plants all from different realities that fight and contest one another for the privilege to be shown above the rest in the eyes of the mortal.
@@ -14,6 +14,8 @@ When raising children, Kupaulus attempted to impart their ideals of being non co
 Given the mostly solitary nature and the ‘punching bag’ role that Kupaulus often serves to other Dragons, they are not close with many others.
 
 One of Kupaulus’ only friends among The First Dragons is [[Yeva, the Stable Dragon|Yeva]] and they hold a deep hatred for [[Zosciva, the Flaming Dragon|Zosciva]]. Kupaulus has had many conversations with Grandun before and they hold a respect towards each other for holding somewhat more solitary lifestyles, of course Grandun still is much more active with other Dragons and enjoys interacting with creatures of all types. 
+
+Holds distrust towards [[Dragunthar, the First Dragon|Dragunthar]] after having learned of Kupaulus’s interruption in  formation as an interface. As such, Kupaulus later found out and assisted [[The Defiled Strand]].
 
 ### Death and Rebirth
 Kupaulus was the first creature to ever be killed, however death was not an extremely rigid concept at the time, and so it was more that the Chaos holding Kupaulus in form was disrupted and a long time would need to pass before Kupaulus could interact with the world the same.
