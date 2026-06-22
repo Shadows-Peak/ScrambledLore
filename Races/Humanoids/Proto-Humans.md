@@ -1,1 +1,1 @@
-The predecessor to [[Humans]] that existed up until at least 2000 years before the [[Formation of Draguia]].
+The predecessor to [[Humans]] that existed up until at least 2000 years before the [[Formation of Draguia]]. They were the direct descendants of the early [[Enzadagon]].

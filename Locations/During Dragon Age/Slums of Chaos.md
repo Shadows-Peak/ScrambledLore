@@ -1,0 +1,1 @@
+Located in the territory of [[Ulkigya]], it is converted in a thick and dense sprawl of [[Chaos]] energy that protrudes from the core where [[Levya, Goddess of Fortune]] lies. The [[Enzadagon|Enzadagons]] of the area are blessed by Levya’s [[Levya, Goddess of Fortune#Pact of Fortune|Pact of Fortune]] and as such are incredibly difficult to kill. They are sworn to protect Levya.

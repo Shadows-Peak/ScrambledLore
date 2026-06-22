@@ -1,0 +1,6 @@
+Levya has been encoded with the [[Oath#Pact|Pact of Fortune]] by [[Legyre, The Storyteller|Legyre]]. She has been around since at least before [[The Ring Wars]].
+
+## Pact of Fortune
+Levya must use her powers of [[Chaos Magic]] only to promote good fortune upon others. There is no further stipulation about how she can use her powers to protect herself, but there is no rule against blessing someone with good fortune that intends on bringing misfortune to another, so she has to rely on a devout following. If she ever uses her powers to cause anything that isn’t directly good fortune and doesn’t help someone in some way, she will suffer an [[Gods#Erosion of Will|Erosion of Will]].
+
+Levya cannot use her Pact of Fortune to grant anyone capabilities that allow the harnessing of Chaos Magic, however she can allow them to interpret [[Chaos]] that channels through them, so she often allows herself to act as a beacon of sorts so that her followers can benefit from more power. This state leaves Levya often vulnerable however, so she relies greatly on the protection of those around her.

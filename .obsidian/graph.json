@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:Main Timeline",
@@ -95,6 +95,6 @@
   "repelStrength": 20,
   "linkStrength": 0.426315789473684,
   "linkDistance": 404,
-  "scale": 0.2031200652689808,
+  "scale": 0.07064572756963149,
   "close": true
 }

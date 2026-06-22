@@ -1,0 +1,4 @@
+Best friend of [[God-Slayer Kinnuah]].
+
+## Early Life
+When taking care of Kinnuah during his learning to utilize his legs properly again, Perval was visited in his dreams by [[Vokzan, the Prophet|Vokzan]]. Vokzan had seen some ways into the future at the request of [[Legyre, The Storyteller|Legyre]] who was curious of what fates would befall his [[Gods|creations]] as time went on. With great effort, Vokzan saw a future where Kinnuah had slain gods, and realized that Kinnuah himself would die due to Gods that had the ability to use your own humanity and mind against you. Vokzan warned Perval by telling him that his friend will never succeed in his dreams unless Perval ensures that Kinnuah ceases to have any of the qualities that make him [[Humans|human]] (Or technically an [[Enzadagon]]).
